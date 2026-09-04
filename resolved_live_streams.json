@@ -2,66 +2,66 @@
   "SKY SPORT 1 UHD NZ": {
     "eventId": "302359",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623717~acl=*dash%2flive%2f2093696%2f219026-326342%2f*!*dash%2flive%2f2093696-b%2f219026-326342-b%2f*!%2fv1%2fdashsegment%2f*~id=f5909b2f-0e83-4e99-9d3a-70a36eac632c~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM3NDQmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=973490a19e964ef01d2401a9a6db263d358e8ab35fc668a060282b02830275e9/dash/live/2093697/302359-326343/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT 1 NZ": {
     "eventId": "219026",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623717~acl=*dash%2flive%2f2093696%2f219026-326342%2f*!*dash%2flive%2f2093696-b%2f219026-326342-b%2f*!%2fv1%2fdashsegment%2f*~id=f5909b2f-0e83-4e99-9d3a-70a36eac632c~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM3NDQmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=973490a19e964ef01d2401a9a6db263d358e8ab35fc668a060282b02830275e9/dash/live/2093696/219026-326342/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT 2 NZ": {
     "eventId": "219027",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623793~acl=*dash%2flive%2f2093699%2f219027-326351%2f*!*dash%2flive%2f2093699-b%2f219027-326351-b%2f*!%2fv1%2fdashsegment%2f*~id=449b45ab-48f0-46e9-a664-652b97f1bb34~data=hdntl,dWlkPXZhZHVlbXw0NTEzMDg4Zi1iZThmLTRkZTgtODg1Yi01NmE3MWFhMTEwYTcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM4MjAmZWlkPTIxOTAyNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=916cb0f56f7c4a14af746d7db39bf35648da466ea7ca6f3e4e6424a0e35065e7/dash/live/2093699/219027-326351/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT 3 NZ": {
     "eventId": "219028",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623752~acl=*dash%2flive%2f2093686%2f219028-326330%2f*!*dash%2flive%2f2093686-b%2f219028-326330-b%2f*!%2fv1%2fdashsegment%2f*~id=2157bc8c-b84b-462a-bb50-4e05f5653715~data=hdntl,dWlkPXd5RU5WcXwwNTMwNmIxZC03NzIxLTQ4MWItOTkwZS05OWU5ZDk5MmJiMzEmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM3ODAmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=86e332c2cbc40587ddf891b370c09e5f0baa6e9f1da0a5a266b6b9b34d458c3e/dash/live/2093686/219028-326330/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT 4 NZ": {
     "eventId": "219029",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788040460~acl=*dash%2flive%2f2093687%2f219029-326331%2f*!*dash%2flive%2f2093687-b%2f219029-326331-b%2f*!%2fv1%2fdashsegment%2f*~id=dfa2ece2-d4fe-476a-9224-470359f35df6~data=hdntl,dWlkPUg3d0g0OXw1YzRmMTNiZS05YmIwLTRiMTUtYTUyYy03Y2Q0NjlmMDk5ODkmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODgwNDA0ODcmZWlkPTIxOTAyOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=753126cc27518de387f1e8af5b979484715d5affb3629cf008a816d95760e92a/dash/live/2093687/219029-326331/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT 5 NZ": {
     "eventId": "219032",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623771~acl=*dash%2flive%2f2093688%2f219032-326332%2f*!*dash%2flive%2f2093688-b%2f219032-326332-b%2f*!%2fv1%2fdashsegment%2f*~id=3faf5bec-7766-46af-b58e-5bd2b0b6b939~data=hdntl,dWlkPXd5RU5WcXwwNTMwNmIxZC03NzIxLTQ4MWItOTkwZS05OWU5ZDk5MmJiMzEmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM3OTkmZWlkPTIxOTAzMiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=a15af2f361db988fb7d7039512cf804c060aee77423909e74b577f9d3d81ef58/dash/live/2093688/219032-326332/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT 6 NZ": {
     "eventId": "219033",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623690~acl=*dash%2flive%2f2093689%2f219033-326333%2f*!*dash%2flive%2f2093689-b%2f219033-326333-b%2f*!%2fv1%2fdashsegment%2f*~id=aab182a0-771c-485a-8bd5-e10a0b15992f~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM3MTUmZWlkPTIxOTAzMyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=511c384438f9b157514514c3d27f865dc04019a1869abfb1d20380fa45c33ec4/dash/live/2093689/219033-326333/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT 7 NZ": {
     "eventId": "219034",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623880~acl=*dash%2flive%2f2093690%2f219034-326334%2f*!*dash%2flive%2f2093690-b%2f219034-326334-b%2f*!%2fv1%2fdashsegment%2f*~id=d3f262eb-3765-49fa-bfc1-1383ab029a53~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM5MDgmZWlkPTIxOTAzNCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=4961c16a7ec4baa1f8b6ff365950c0a92e904bf653d8aebdc3a7068ce1ff07d0/dash/live/2093690/219034-326334/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT PREMIER LEAGUE NZ": {
     "eventId": "219035",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623809~acl=*dash%2flive%2f2093691%2f219035-326335%2f*!*dash%2flive%2f2093691-b%2f219035-326335-b%2f*!%2fv1%2fdashsegment%2f*~id=455e6ada-4a98-4279-b226-013bc8964a16~data=hdntl,dWlkPXZhZHVlbXw0NTEzMDg4Zi1iZThmLTRkZTgtODg1Yi01NmE3MWFhMTEwYTcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM4MzYmZWlkPTIxOTAzNSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=d64f18d35cbbd91cdf06e9aa7de03742927dd0a50126edb9d8f0008729216a71/dash/live/2093691/219035-326335/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT 9 NZ": {
     "eventId": "219036",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623851~acl=*dash%2flive%2f2093692%2f219036-326336%2f*!*dash%2flive%2f2093692-b%2f219036-326336-b%2f*!%2fv1%2fdashsegment%2f*~id=ddd9618f-4b14-44dc-908f-5a70fc67672e~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM4NzgmZWlkPTIxOTAzNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c9019a089de4cf4cc446ca66c1fd0dd373a37fb666ebf90053c4f7ab2375b380/dash/live/2093692/219036-326336/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "SKY SPORT SELECT NZ": {
     "eventId": "219037",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623909~acl=*dash%2flive%2f2093695%2f219037-326340%2f*!*dash%2flive%2f2093695-b%2f219037-326340-b%2f*!%2fv1%2fdashsegment%2f*~id=6a778dcf-b599-4b96-bb2c-8c13a1d2d7ca~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM5MzcmZWlkPTIxOTAzNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=5627fb0e7e08dc74ee6905db391352d21e9218bb2d4af7228ca9bef1927e72d9/dash/live/2093695/219037-326340/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "ESPN NZ": {
     "eventId": "219038",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623827~acl=*dash%2flive%2f2093693%2f219038-326337%2f*!*dash%2flive%2f2093693-b%2f219038-326337-b%2f*~id=6cd7d92e-2854-4af3-8881-d8dba9892a58~data=hdntl,dWlkPTl6ZnpZZnxkNTE1MGY4Ny1jMjk2LTQwOGQtODhmNi04OWRmZTQ4MmFmNjcmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM4NTYmZWlkPTIxOTAzOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=6504b9d505e692ec15ae0c08ccaa202e66a0ebebf658b935895ffa91185391af/dash/live/2093693/219038-326337/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   },
   "ESPN 2 NZ": {
     "eventId": "219039",
     "streamUrl": "https://dice-live-oc.akamaized.net/hdntl=exp=1788623733~acl=*dash%2flive%2f2093694%2f219039-326339%2f*!*dash%2flive%2f2093694-b%2f219039-326339-b%2f*~id=df10de1c-0f37-4ce5-b78c-8925d1eafb3c~data=hdntl,dWlkPXd5RU5WcXwwNTMwNmIxZC03NzIxLTQ4MWItOTkwZS05OWU5ZDk5MmJiMzEmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODg2MjM3NjImZWlkPTIxOTAzOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=d9c1d8bb9a03ab03a329ff62f9e09d05f2c4cf359b6e923120b3e024242c58c4/dash/live/2093694/219039-326339/manifest-d.mpd",
-    "updatedAt": "2026-09-04T21:01:54.877Z"
+    "updatedAt": "2026-09-04T21:16:46.409Z"
   }
 }
