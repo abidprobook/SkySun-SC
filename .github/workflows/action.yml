@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add skysun-enc.txt resolved_live_streams.json raw_skygo.json
+          git add playlist.m3u
           git fetch origin main
           git reset --soft origin/main
           if git diff --cached --quiet; then
