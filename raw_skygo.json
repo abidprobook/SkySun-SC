@@ -1,61 +1,5 @@
 [
   {
-    "stream_id": "93e1041746cba7ad2e1f45b39f86671c",
-    "event_name": "Bulldogs v Swans",
-    "category": "AUSTRALIAN FOOTBALL",
-    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/australian-football.svg",
-    "league": "Women's AFL",
-    "league_logo": "",
-    "home_team": null,
-    "home_team_logo": null,
-    "away_team": null,
-    "away_team_logo": null,
-    "description": "",
-    "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/9E6BBF63-F29B-438C-937AF28455C7A37A.jpg",
-    "timestamp": 1788575400,
-    "start_time": "2026-09-05T02:30:00Z",
-    "end_time": "2026-09-05T04:30:00Z",
-    "time_utc": "2026-09-05 02:30",
-    "time_et": "09/04/26 10:30PM ET",
-    "streams": [
-      {
-        "source_name": "SKY SPORT 7 NZ",
-        "stream_url": "",
-        "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeopjqu42kvkvqh4w4rloxjfhfjr2v2th3mlfrzq63knbtvzhoclvtvwxm4roslvacmmon2vde2kztfc2lbso5gvenar2f2bdljonqvqukyj5vfcvtcjvlws3fdngjzjflkr2uylj26mjojo2lcnbrfuu4yoci2bkmpxksj6wf5rwmi3inatknjvg2qjnlh4xkvlnoz7iknt7cfzdk7kffz6tfgl6uj5fwctwpzyvcrjrhu5rewmglkpg5ckkuy2wu5sfwvcukpkrje6te5oglfzc46ussuxkumkotzfqe6krfv2z23lwphgxlfm5fvq7kvk2nz7ee3xzifexmy&player=shaka"
-      }
-    ]
-  },
-  {
-    "stream_id": "163bfa55624f6e7cc71cbbe56ae90ef6",
-    "event_name": "Port Adelaide v SUNS",
-    "category": "AUSTRALIAN FOOTBALL",
-    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/australian-football.svg",
-    "league": "Women's AFL",
-    "league_logo": "",
-    "home_team": null,
-    "home_team_logo": null,
-    "away_team": null,
-    "away_team_logo": null,
-    "description": "",
-    "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/05AF8DD1-71A0-468E-81F7A834B3171E48.jpg",
-    "timestamp": 1788582600,
-    "start_time": "2026-09-05T04:30:00Z",
-    "end_time": "2026-09-05T06:30:00Z",
-    "time_utc": "2026-09-05 04:30",
-    "time_et": "09/05/26 12:30AM ET",
-    "streams": [
-      {
-        "source_name": "SKY SPORT 7 NZ",
-        "stream_url": "",
-        "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeorblwqumzn5qxbj44usp2aw4rlnphdblmsclzq62pk2myctl2rwhvwus5m5nv23conb4fwxsmrsqj3f2ykf7yxdsvnjvjdieopnqvdj2yj5pweutcm5fwc4fhustzzi3jsokilj2sm5vjsvkrm2vgqxclocokqwvasgqktd3kmvnzviu3t6pkpemxsso23jvasshf2vk3lvxwbelbu5hkmucxl2rffelrjziviuu5t6ofjqmnrogkpjc2uwqy5h2mr25zyusptvivct2uykjjaw2ourjzzjevuriy3pvbkrifbhsujno3phvblrmewtsykvuxyv3bvvkvwxkokbjf3ga&player=shaka"
-      }
-    ]
-  },
-  {
     "stream_id": "ceffad8ea07b3629e038072523a5a68b",
     "event_name": "Sydney Swans v Brisbane Lions",
     "category": "AUSTRALIAN FOOTBALL",
@@ -71,7 +15,7 @@
     "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/BCE8FB3A-4F8F-4093-932B492480E2C0F5.jpg",
     "timestamp": 1788584100,
     "start_time": "2026-09-05T04:55:00Z",
-    "end_time": "2026-09-05T08:00:00Z",
+    "end_time": "2026-09-05T08:10:00Z",
     "time_utc": "2026-09-05 04:55",
     "time_et": "09/05/26 12:55AM ET",
     "streams": [
@@ -224,8 +168,8 @@
     ]
   },
   {
-    "stream_id": "aaad23d1b7e1a406a168c50874ffff05",
-    "event_name": "MLB",
+    "stream_id": "f10e78ff8706986dab1c9bdf484847a3",
+    "event_name": "Chicago White Sox v Minnesota Twins",
     "category": "BASEBALL",
     "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/baseball.svg",
     "league": "MLB",
@@ -236,18 +180,18 @@
     "away_team_logo": null,
     "description": "",
     "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/A3B51B78-7086-42A0-A3F7B2C99FB42B9F.jpg",
-    "timestamp": 1788584400,
-    "start_time": "2026-09-05T05:00:00Z",
-    "end_time": "2026-09-05T07:00:00Z",
-    "time_utc": "2026-09-05 05:00",
-    "time_et": "09/05/26 01:00AM ET",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/D4DC13C0-3EDC-4854-9C9996D6C4A7CD31.jpg",
+    "timestamp": 1788732000,
+    "start_time": "2026-09-06T22:00:00Z",
+    "end_time": "2026-09-07T01:00:00Z",
+    "time_utc": "2026-09-06 22:00",
+    "time_et": "09/06/26 06:00PM ET",
     "streams": [
       {
         "source_name": "ESPN NZ",
         "stream_url": "",
         "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeonn5hrhmoscbf5k6jlvtvwxm4rn2hotclkshkfduymvsvytl6kvvgvenar2f2a7nim5rgoycqkfugevklnf2kphfdngjzjflkpzuftkcnj5sjsz2rm5fv46c2uci2bkmpxksg7gmrr2tzzkngtcuzteteocki4xkvlnoveuv5lvozbh5akop2lfnftvpmjhknj6pj4tkokk7i3ec3topz6uvarsskfd55kfhu6u2qjopu7qlcmfnz6t5iukrizim6mlbu5hstksqf2z23vvnwoxswljjvu63gkwjjhk25jzhvcxmy&player=shaka"
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeopflfcxc2jvukxmvdush2aw5ovkbz4tm5onju4wcvjrgfyxvlv6jkjkmolnufwudln6dzfgeyrrmu2uufkj62oxkvlno2hd4ppnfztkevmjjvw2tcm6lgk4eur6r2bdnat6qhozldlzmjuydfmcugqvstxkrkbd3ir2hy3idmnglgexspjzrhwzsvuof3yvcljzjv2z23lv3gcwcmsktjrdfdsctu6x6cjrh2ausqknhve3evmgfzytkztstzbke7rzwvaucut5ku4usnyggi3em4usrz4vurungfw3kmubfu6u2oknixbfuslsukgu4mr2ozoulfnsu2tifhxksj6xoft2qyzhfctjuq&player=shaka"
       }
     ]
   },
@@ -420,6 +364,68 @@
     ]
   },
   {
+    "stream_id": "1beb788582c0cafb9bd0d875544a5ad8",
+    "event_name": "Guyana v St Kitts",
+    "category": "CRICKET",
+    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/cricket.svg",
+    "league": "Caribbean Premier League",
+    "league_logo": "",
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "description": "",
+    "hero_thumbnail": "",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/9BFFAF69-8A5A-4E46-A29BE394A422FF13.jpg",
+    "timestamp": 1788719400,
+    "start_time": "2026-09-06T18:30:00Z",
+    "end_time": "2026-09-06T22:30:00Z",
+    "time_utc": "2026-09-06 18:30",
+    "time_et": "09/06/26 02:30PM ET",
+    "streams": [
+      {
+        "source_name": "SKY SPORT 3 NZ",
+        "stream_url": "",
+        "stream_keys": "",
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoovqwcxslj6oycw5or5n4njepr57j5je5qfkv7duhjvggeunljzowow25tsf2i2srkfuzfjuyrrjfczlajtcwu2uruchixienxftfyvs4krjvyvlbkzkgm544unuzhfevnkhhsvfgmbfwbc23mzfvmt3kzkqjdifjr65kjh6irsijnie6ucgi5hmxlfrijds5kvnv2tstknyvzd3ckkr2ms5esgr2bdwdkfguytfaucouzqlclrpves5dussjdim3rzx2dhvbjsofit2tyshjqxu5usuu2vmsunji3pkptvgz2xlhlnow4ztam5le6tehkfqzpku5vvhfat25ta&player=shaka"
+      }
+    ]
+  },
+  {
+    "stream_id": "556dee526da1f4218eb7af31a4f1f7f4",
+    "event_name": "Barbados v St Lucia",
+    "category": "CRICKET",
+    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/cricket.svg",
+    "league": "Caribbean Premier League",
+    "league_logo": "",
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "description": "",
+    "hero_thumbnail": "",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/0936F815-95E5-4520-94F815B6EECA0BE5.jpg",
+    "timestamp": 1788733800,
+    "start_time": "2026-09-06T22:30:00Z",
+    "end_time": "2026-09-07T03:00:00Z",
+    "time_utc": "2026-09-06 22:30",
+    "time_et": "09/06/26 06:30PM ET",
+    "streams": [
+      {
+        "source_name": "SKY SPORT 1 NZ",
+        "stream_url": "",
+        "stream_keys": "",
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeopjgwqw22jruh4w4rloxi6w6hsbxgkye5sogisu3btwega2d5r5nuyxlhlnozy63fozjgewe2usnjwuk4kf5y4vlknki2bdulobgkkzklmnsfmvklkzgge55eu6okg2mtssk3us3fkokvcu3crvggkytcnsufvierucuy7otumkkixh5dvcokjg4nscnxnieurzovkw25kpcjdd4ojnifth5gsblzzfwajsofdhknkbkfhpuwrwfvdh5fjosjhjfar3cfgvcsj2qvgu5ax6izdevhuop2bjmrljhgfp2ntwpj5hsulvt2xhdcmvhvutsrjz4fete3yvnv2tspjrozq&player=shaka"
+      },
+      {
+        "source_name": "SKY SPORT 1 UHD NZ",
+        "stream_url": "",
+        "stream_keys": "",
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeopjgwqw22jruh4w4rloxi6w6hsbxgkye5sogisu3btwega2d5r5nuyw5qyo7v3n46ufpgau35mfugtf5ktww2hd4prohfk2tkqfqvetkll2hfmvkwmvmge7nat6qkpjfhtsr3svsykokv2tternqfmxfkp2hy3ie4vbnkbelqnbfxqv2qton2vc5itolk2z23lwtkbfeolxcz5ilbugovmtfbswteyytrkjhu4tm5tspfa3c5lshkcufft5kjkvvbsxcvfim6ucqfct2pxzqy6yu4kcukkwerkwujbo2tt5huxhknkfg3xdvdmjiu5kvgu6gflhk6nwou6t44j6ou6un4rnov5ikpubivnencukg4kusstrhz6s2sj5yy5euptsnz7ifcsblvfdgejnhz4ukskfge7o3cuole4us2ucsixjfalrxfit2skjiz2s2uocjfzc44uoqj4wmqujgf7rksj5gvjhnbjrjmbc24scoe4wvaugjfus4myspvctcmkjje4uv4scrwdiveuoo2venkj5ogyu2pt5kewve4kpagaxmptsokvjnhszkzxc6fj2ojytvbtzgu3ptascfzys5dtorizjvisjye7hktt2qu7ie5ykk2dkmqrzmvmwlhjnfws2vet5ovkw25jrhl3evbli&player=shaka"
+      }
+    ]
+  },
+  {
     "stream_id": "07655bc5b6c2960ff885fbc2aebc0a36",
     "event_name": "La Vuelta Stage 14",
     "category": "CYCLING",
@@ -472,34 +478,6 @@
         "stream_url": "",
         "stream_keys": "",
         "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeonrgzu33gjnux7hc3v2hzzivalo6jdh5ksb6vczm2nruvks37lnhf2z23lwoiw5dxjrfvjdvcr2mgkzk4jv7fk2tksgqi5c5apwugoythmbifc2dckvfws5fhtsrwte4usvvh42czvbgu6zezm5iwos26pbnkbenavgh3vjdptgiy5j44vktjrkmzsjshbfeolvkvwxkokpbwaymnjnhj7icxr6sz5dn4kniu2tcmucqj3peqlnre4tsxugqi7jnisk6j7im6ufgjyvcpyoky7fspugqjwwlcu2pfxo2nj6ou3hk5m5n22w3hlzlfuu22pntfleutvnou4ucplwma&player=shaka"
-      }
-    ]
-  },
-  {
-    "stream_id": "8fa5c0d63ccddec4353ca3c013d61f95",
-    "event_name": "ONE Friday Fights",
-    "category": "FIGHT SPORT",
-    "category_logo": "https://wsrv.nl/?url=https://raw.githubusercontent.com/senbonzakura000/images/refs/heads/main/android-chrome-512x512.png",
-    "league": "ONE Friday Fights",
-    "league_logo": "",
-    "home_team": null,
-    "home_team_logo": null,
-    "away_team": null,
-    "away_team_logo": null,
-    "description": "",
-    "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/37EC4279-56A7-4A22-9FA9C89CF8F1C429.jpg",
-    "timestamp": 1788570000,
-    "start_time": "2026-09-05T01:00:00Z",
-    "end_time": "2026-09-05T05:00:00Z",
-    "time_utc": "2026-09-05 01:00",
-    "time_et": "09/04/26 09:00PM ET",
-    "streams": [
-      {
-        "source_name": "ESPN 2 NZ",
-        "stream_url": "",
-        "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeonv4hlhltmjtg7heulpa2jivdr57j5je5nn6yq6e2rolzjhnntsf2jouqrwtv3rm6ufsvyydiloqkrdc6mj7ixienngr2bfeponqvcysmj5gfkts6kglflbevnkhktflkukqh7kkskfre6v2ztnrggs3hp65kjh2yjvgfis56swq2teeokfiwctexvko22ucmkcqj6s2pjpbvxgdctriknjsyrwsexef6tspvgtnbkfkj63estgifcus2kjkjmwcrmlau2t5ajrgfitkqnwhy5esrkjjzxjtck6ty5llhlnoz5i44vguxa2twmzgi5iuotcgklj43ra&player=shaka"
       }
     ]
   },
@@ -1480,6 +1458,40 @@
     ]
   },
   {
+    "stream_id": "82f44af4d41664c748c8fadb2968295f",
+    "event_name": "INDYCAR: Laguna Seca",
+    "category": "MOTORSPORT",
+    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/motorsport.svg",
+    "league": "Indycar",
+    "league_logo": "",
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "description": "",
+    "hero_thumbnail": "",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/CAD1F955-BFBE-403E-855BB41300123899.jpg",
+    "timestamp": 1788719400,
+    "start_time": "2026-09-06T18:30:00Z",
+    "end_time": "2026-09-06T21:30:00Z",
+    "time_utc": "2026-09-06 18:30",
+    "time_et": "09/06/26 02:30PM ET",
+    "streams": [
+      {
+        "source_name": "SKY SPORT 1 NZ",
+        "stream_url": "",
+        "stream_keys": "",
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeon54hm5tyn5v4kw6htsrjbkm4lnpgcys6sclzq62pk2myctl2rwhvwtc5m5nv23conb4fwxsmrsqj3f2ykf7yxdsvnjvjdieopnqvdj2yj5pweutcm5fwc4fhustzzi3jsokilj2sm5vjsvkrm2vgqxclocokqwvasgqktd3kmvnzviu3t6pkrd4xsso23jvasshf2vk3lxbzldent5hvis5dsgsffeoekbgjyum5jvifjq4ls6h2etndt5ly7h45rw6fiu2ukjhkcu2tocjizc43uop2ljesuvhv64cpjwoz5hu6kro3phvblrmewtsykvuxyv3bvvkvwxkoj5gf3ga&player=shaka"
+      },
+      {
+        "source_name": "SKY SPORT 1 UHD NZ",
+        "stream_url": "",
+        "stream_keys": "",
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeon54hm5tyn5v4kw6htsrjbkm4lnpgcys6sclzq62pk2myctl2rwhvwtc3wdb37lnkt6nu6xcpq5suwtmssovv3i4pr6fy4vlkxjifytdaj5vjqutcmjogk4enucp2bj5eu6ohhkcxkzvjs2kymcufis2rxchi7dnatsufviebmfsvdbktksu2pdnhugjmixlhlno2nieur2wzjh43jso2sucys2qzwylqufje6tsntwoj5qc5mbrj7hkut6rv7iklrtbvkuvbt2qkaukpx6fvzdklubkj5ik3uvgjlqslkopu6s45jvi33dupvffu2wu4ukgkqteqnsoz2t2ptrhz2t6brwjf6t45kotfkynfu6f3wvkskkoe7h2lkk7wbd4mt2qkpjneswsfew56krfu7hsrkjiuzp4olou2ouswjssi7j45rvxj4vcpkjjfdhklyrqywyvcucp2nks6ustwc4kvkjhu2ve5ufgmfemsmko2awsmuslkmt3cxzkj6ukmjrjfetwcrwg2ste6ucq2tdnft5pg5hctj6pvis2uttbzcxk7t2qkrhfbrsrezev5kvhjzhcougpe3pmllwhkficxugtzlke3sxakat45kopkct5anwhzrg4ursnewus6jnlge552uspv2vk3lvgl5deltnrq&player=shaka"
+      }
+    ]
+  },
+  {
     "stream_id": "23e5757493fa905a9e8b8cbc72f166db",
     "event_name": "NBL Preseason Blitz: South East Melbourne Phoenix v Brisbane Bullets",
     "category": "OTHERS",
@@ -2018,11 +2030,11 @@
     ]
   },
   {
-    "stream_id": "1aad4ab8da5b0ca0463ecaf1ac5e8aea",
-    "event_name": "Warriors v Sharks R10",
-    "category": "RUGBY",
-    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/rugby.svg",
-    "league": "NRL Women's Premiership",
+    "stream_id": "d902db9fb672a756bf8f125be9578f14",
+    "event_name": "2026 FIBA Women's World Cup: Italy v USA",
+    "category": "OTHERS",
+    "category_logo": "https://wsrv.nl/?url=https://raw.githubusercontent.com/senbonzakura000/images/refs/heads/main/android-chrome-512x512.png",
+    "league": "2026 FIBA Women's World Cup",
     "league_logo": "",
     "home_team": null,
     "home_team_logo": null,
@@ -2030,33 +2042,27 @@
     "away_team_logo": null,
     "description": "",
     "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/B3E9836B-8D3E-4B81-8C3633F3EF8F2DDE.jpg",
-    "timestamp": 1788574500,
-    "start_time": "2026-09-05T02:15:00Z",
-    "end_time": "2026-09-05T04:30:00Z",
-    "time_utc": "2026-09-05 02:15",
-    "time_et": "09/04/26 10:15PM ET",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/C88F09E2-388A-460B-AF3FB02111D3D94E.jpg",
+    "timestamp": 1788719700,
+    "start_time": "2026-09-06T18:35:00Z",
+    "end_time": "2026-09-06T20:45:00Z",
+    "time_utc": "2026-09-06 18:35",
+    "time_et": "09/06/26 02:35PM ET",
     "streams": [
       {
-        "source_name": "SKY SPORT 1 NZ",
+        "source_name": "ESPN NZ",
         "stream_url": "",
         "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoqvgwqs2skvfx4w4rloxkhhenuz7j44moucgixduhmrrja3d3vkgy6w2mlvtvxlk5j5tikx3klkmjhgmsmv7y7c4okvvgvenapzhfys4wkrjwkztfkzrge35au6skphfdngjyivfgjrlgndkpkviy4ykrpwqjzkc2uci2bkl7o5ugdi46u6s2vc5dsku2wxngucki4xkvlowzngesucnvgusxscsz2w57kriezhcrtvgvbrewskkz5hszugrvzi5ksc5uyvctkrje5iktynqyxevct6p2limpu2of44naj5gz3hu6tzkk3ku7tniviv2yjrre3blgn5ovkw25jzhuyxmi&player=shaka"
-      },
-      {
-        "source_name": "SKY SPORT 1 UHD NZ",
-        "stream_url": "",
-        "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoqvgwqs2skvfx4w4rloxkhhenuz7j44moucgixduhmrrja3d3vkgy6w2mloymgt44uoozes3ikv5vez2utpcvwxndr6hyxdsvxktu2ytblrjvzddfkztvc45arwqj7ifhustwyzvfkvtwndk3jrjyytlcp5ui5d4nucokqwtqkbogoxejj5jj3dfjukgmavc5m5nv3jvasr7jzgm5sjiktg2ulorkretpucqvet2ojwozy3urmbpexg5jkkrzau5imk7fgvksugpkbicrx6jjeyvaj6sffkuwk6ogdq2sjnjz6t2ltvg4ddeprwke6wkmvck2rilbykoj3hkpj6oe7hn7sciiytslvfi2eysvtsll2s2vkjjjyt47jpbjexmnugrkjhnbr6qz2w3njzkewt46kfjfdpesr5qzji2wkbmi7i5csc5z5hsuj5jfeum5xokvzeklt2skliunlkozm35bkvje6tkutwq3zd4mrrf2djcmlch2fg26obhfjh2rjrgfeuv6r6ii7fcqvktkldvjtshgzhu4knhz6vclkrwjndc7j2rkjhvis2ukoyoajvku5he4j2qz5pmmsjpz7hvejwsyzinbslbvbicptvjz5ikpoboi5fustcmiyv3fljlgo4fhxksj6xkvlno3zc4rsgjgo&player=shaka"
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeovkpkrd4zn2de3pc3wkvkrifjmj7j43timjmfjdtxkju2vhkur6okpfc3sfn3axt5t6vja34jpzwjxdmqtnwixjf2scg2oxkvvoogouk4lru2jc5imnfuy65arvu2hieur6rxatc4mffvqt22lfsyw2cwqvvi5kmvnkrkbd5yjnfuws2ljotvkt2wkziwvje7lbguyvclj3bzzi45sjkvgzlhtopzbg6ckjgzziksjrh2bqurs6iz2s47jsujcwcrro7fetsmjsovaucun6kjfefcukvkbjurugny232pkgpz3hkmubf37fusswpe7ie3k6k2es43w5nv3hvdtsu2tidxo5ugdevgtcgkpendsjna&player=shaka"
       }
     ]
   },
   {
-    "stream_id": "1e6e3c7238534d7bdc4f146136700d56",
-    "event_name": "Waikato v Auckland",
-    "category": "RUGBY",
-    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/rugby.svg",
-    "league": "The Farah Palmer Cup",
+    "stream_id": "386bedf9018062ecb676f81e615558a9",
+    "event_name": "College Football: Florida A&M v South Carolina State",
+    "category": "OTHERS",
+    "category_logo": "https://wsrv.nl/?url=https://raw.githubusercontent.com/senbonzakura000/images/refs/heads/main/android-chrome-512x512.png",
+    "league": "College Football",
     "league_logo": "",
     "home_team": null,
     "home_team_logo": null,
@@ -2064,27 +2070,27 @@
     "away_team_logo": null,
     "description": "",
     "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/A2C6AE80-D3CA-455C-A3955CA52AD6DA02.jpg",
-    "timestamp": 1788582600,
-    "start_time": "2026-09-05T04:30:00Z",
-    "end_time": "2026-09-05T06:30:00Z",
-    "time_utc": "2026-09-05 04:30",
-    "time_et": "09/05/26 12:30AM ET",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/DE1922E7-F0AE-43D0-BEB98DC9A6C5C73F.jpg",
+    "timestamp": 1788721200,
+    "start_time": "2026-09-06T19:00:00Z",
+    "end_time": "2026-09-06T22:00:00Z",
+    "time_utc": "2026-09-06 19:00",
+    "time_et": "09/06/26 03:00PM ET",
     "streams": [
       {
-        "source_name": "SKY SPORT 3 NZ",
+        "source_name": "ESPN 2 NZ",
         "stream_url": "",
         "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoqvgvczc2lrukxek3xsij5jvhtr4wfh5ksb6vczm2nruvks37lnhf2z23lwoiw5dxjrfvjdvcr2mgkzk4jv7fk2tksgqi5c5apwugoythmbifc2dckvfws5fhtsrwte4usvvh42czvbgu6zezm5iwos26pbnkbenavgh3vjdptgiy5j44vktjrkmzsjshbfeolvkvwxkokpbwaymnjnhj7icxr6sz5dn4kniu2tcmucqj3peqlnre4tsxugqi7jnisk6j7im6ufgjyvcpyoky7fspugqjwwlcu2pfxo2nj6ou3hk5m5n22w3hlzlfuu22pntfleutvnou4ucplwma&player=shaka"
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeopflu42kwjvrkxqnkvkhz3hfhu7cz47ljkvpe6usztv5i5cvlsfn25kuqr6rvwts5kfufiu2ojwngyzkpkfyfw2c3ycxkxsk3xwokhhmsjnufk62sm5kjxrk3lwry7d4lrzk3vj2nmjqvyu24rrsvmz2rooqi3ie7uct2jj3mm2svkz3grvnuyu4mjvrh62eor6g2bhfiljyfaxdhlseu6uu5rovkpdn6krowow25u2qji7u4tgozfh5hufkwdkm4rxbz4vfaj6pvcu45xohvzefbjnkknkc7uotwc3cpkvjj5im5t6q4iw3cmkpj5jcrvghkfiusnvjfeue6ugqe4t3qlsmi5euytcgfozk2kztxbj52uspv2vk3lw7jfge3mm&player=shaka"
       }
     ]
   },
   {
-    "stream_id": "c7ebf40b44e210e908211dd66343eaa0",
-    "event_name": "Warriors v Sea Eagles R27",
-    "category": "RUGBY",
-    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/rugby.svg",
-    "league": "NRL Premiership",
+    "stream_id": "8ca3793232891daf20f26ffa6d6fc498",
+    "event_name": "College Football Studio",
+    "category": "OTHERS",
+    "category_logo": "https://wsrv.nl/?url=https://raw.githubusercontent.com/senbonzakura000/images/refs/heads/main/android-chrome-512x512.png",
+    "league": "College Football Studio",
     "league_logo": "",
     "home_team": null,
     "home_team_logo": null,
@@ -2092,33 +2098,27 @@
     "away_team_logo": null,
     "description": "",
     "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/27F6F5DB-8837-4637-8F9D678B56D08CF4.jpg",
-    "timestamp": 1788582600,
-    "start_time": "2026-09-05T04:30:00Z",
-    "end_time": "2026-09-05T07:30:00Z",
-    "time_utc": "2026-09-05 04:30",
-    "time_et": "09/05/26 12:30AM ET",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/9477E99F-C6F7-4FBD-9A0BC15D0B11A731.jpg",
+    "timestamp": 1788737400,
+    "start_time": "2026-09-06T23:30:00Z",
+    "end_time": "2026-09-06T23:37:00Z",
+    "time_utc": "2026-09-06 23:30",
+    "time_et": "09/06/26 07:30PM ET",
     "streams": [
       {
-        "source_name": "SKY SPORT 1 NZ",
+        "source_name": "ESPN 2 NZ",
         "stream_url": "",
         "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoqvgwqs2skvfx4w4rloxkbhc3ybwf6y3cmggivhfdtwhja3dwsrn25c5krwhvxpe4uoozes3ikv5vez2utpcvwxndr6hyxdsvxktu2ytblrjvzddfkztvc45arwqj7ifhustwyzvfkvtwndk3jrjyytlcp5ui5d4nucokqwtqkbogoxejj5jj3c5ku6g32uk5m5nv3jvasr7jzgm5sksj7inkrzleyxgcj5jj2t2ukbgjzqk4sgjkpjfju2siwwe3sbxfcvksjngfiu2uykfv3fnij6skdkesuktznqkqj6okdicpjwow4w3cs2jjrgemk5svuvthoct3vje7lvkvwxn6skijwyy&player=shaka"
-      },
-      {
-        "source_name": "SKY SPORT 1 UHD NZ",
-        "stream_url": "",
-        "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoqvgwqs2skvfx4w4rloxkbhc3ybwf6y3cmggivhfdtwhja3dwsrn25c5krwhvxpe6nscwzdumr2mf42kxpcai3j25kvnv3i4pp5hffe4vtftfcz2nkzrko45assh2hienucpxa2tinfhvjdtgmfjyyylhqvvkfiepnchi7dlqlvsjqs3cknmgm6csjsnl4s2njzifixlhlowwgxcwmghkfduymgukcx3nkrjvbh5aufje7pummfpfdh2xjvky5kcmsdbkcu5ajzjvkuvbnzqvzd44ucuvdktcuvgi3re5j6pvguslkop37dtbropj5ke6rzrfquulynhe5h2stsoz2t57lwfvxhfcu6nvixvijokxbh2pkrguwvkskjwjew4ntwqfnhvhr6sz7fwbknjj3hkokrfu63uqr2hz7ifikkhjmu2olpavctksjopj4vcpykhy2w5aunj2evmluwtzlo44kjkj7ikvkjh33flbl6p2di43kwikkus3yfkfbhfajzkj6un4rwhjbinbu6qi4ynhvcjlys2pjsoj5hctj5xzld4wj6skgucur6s2bc6ejzkj6ucnkvhjy3ellvokfhvjkcuyxjkpsk7fgtsqknikat45ynnv3eklj2s2lgfjtgjfy444vgu2bj52usp23fe7topz3kvctbna&player=shaka"
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeopflu42kwjvrkxqnkvkhz3hfhu6vwws2sjrju3duntv3ic3kzlngv2z23lwoiw5dxjrfvjdvcr2mgkzk4jv7fk2tksgqi5c5apwugoythmbifc2dckvfws5fhtsrwte4usvvh42czvbgu6zezm5iwos26pbnkbenavgh3vjdptgiy5j44vgszrkmzsjshbfeolvkvwxkqjtagcw4ntsokas5bmksuzd6dtvfvficsj2oj7q4mlwh2oucxukqjawcolnx2cve6t2qfctkpocgzbfvct5nj7i4slbhgfpspucovitc5m5n22w3hlzlfuu22pntfleutvnou4t2ulwma&player=shaka"
       }
     ]
   },
   {
-    "stream_id": "15286d1529686751db99286c5c3501da",
-    "event_name": "Tasman v Wellington",
-    "category": "RUGBY",
-    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/rugby.svg",
-    "league": "Rugby: Hilux NPC",
+    "stream_id": "75e75accf58158610ab31da367081106",
+    "event_name": "College Football",
+    "category": "OTHERS",
+    "category_logo": "https://wsrv.nl/?url=https://raw.githubusercontent.com/senbonzakura000/images/refs/heads/main/android-chrome-512x512.png",
+    "league": "College Football",
     "league_logo": "",
     "home_team": null,
     "home_team_logo": null,
@@ -2126,46 +2126,18 @@
     "away_team_logo": null,
     "description": "",
     "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/79E1B171-461B-401D-A285B69832CFCF32.jpg",
-    "timestamp": 1788584400,
-    "start_time": "2026-09-05T05:00:00Z",
-    "end_time": "2026-09-05T07:00:00Z",
-    "time_utc": "2026-09-05 05:00",
-    "time_et": "09/05/26 01:00AM ET",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/DE1922E7-F0AE-43D0-BEB98DC9A6C5C73F.jpg",
+    "timestamp": 1788737820,
+    "start_time": "2026-09-06T23:37:00Z",
+    "end_time": "2026-09-07T03:00:00Z",
+    "time_utc": "2026-09-06 23:37",
+    "time_et": "09/06/26 07:37PM ET",
     "streams": [
       {
-        "source_name": "SKY SPORT 2 NZ",
+        "source_name": "ESPN 2 NZ",
         "stream_url": "",
         "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoqrgwo2s2k2oycw5suct2pjfjuj7wozm5sogisu3btwega2d5r5nu2xlhlnozy63fozjgewe2usnjwuk4kf5y4vlknki2bdulobgkkzklmnsfmvklkzgge55eu6okg2mtssk3us3fkokvcu3crvggkytcnsufvierucuy7otumkkixh5dvcokhg4nscnxnieurzovkw25j7azbemqjzhfvjkwlnmjzd3rj2oexh47jzjzzpmqrnpfetswubmzgwsolryvhhktkfjfgue7x6li4xcsusrvbi4pusoyy3smj5g2auctlvt2xhdcmvhvutsrjz4fete3yvnv2tsqknozq&player=shaka"
-      }
-    ]
-  },
-  {
-    "stream_id": "77e09ba560a2cbe12093a3066712a8fb",
-    "event_name": "Cowboys v Roosters R10",
-    "category": "RUGBY",
-    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/rugby.svg",
-    "league": "NRL Women's Premiership",
-    "league_logo": "",
-    "home_team": null,
-    "home_team_logo": null,
-    "away_team": null,
-    "away_team_logo": null,
-    "description": "",
-    "hero_thumbnail": "",
-    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/32C1E537-BCB8-476E-B92FDB76F5CC9703.jpg",
-    "timestamp": 1788585000,
-    "start_time": "2026-09-05T05:10:00Z",
-    "end_time": "2026-09-05T06:55:00Z",
-    "time_utc": "2026-09-05 05:10",
-    "time_et": "09/05/26 01:10AM ET",
-    "streams": [
-      {
-        "source_name": "SKY SPORT 4 NZ",
-        "stream_url": "",
-        "stream_keys": "",
-        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeopflwgw2mm5gkxek3vwvkvdupub6uxh3lt6ojrgm2nrigphk6rovi3d23j5owpk44mbgvpcldlrhjxh4qtnzy7d4lrzkwu2urobfu6ytctjifcykrkffuw4e7uct2jj44unuygvkzvbqvuyuxknrgle2mp6g2bhfilkqjdidzkj3gmtfhvko2ddnhu6n3ow25u2qjjds5kwvzyxc3vcqvjhfiscqzxdgbj5huwusttrika33aloge7g2tkguvywfcsnxfiu5atrkewt2pxrnwbekljnju2vs3vktyxq46tvie4s2ougqmbhfdtwje2ucnjrtvmvdyospv2vk3lvhe6ufnle&player=shaka"
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeopflu42kwjvrkxqnkvkhz3hfhu6v2th4cqf6g5dvitogzbg3mroslveenu5ovlk44m5ivyxdjusf2qy2ljr52bdljuoqjjd5dobgfyykllbhvuwlfrnufnblkr2uzk2vcuch3qs2ljnfuws5hkvhvmvsrnksj6wcnjrkewtwetsrz3esvknswpg47scn4atcqucpuwt2lknxjkxerjsrkatfksblj3ddmt5ju3ikrkspzzp4urzoe4tsukcqvywclr66u7icmjrke2ue5ykhyyxcoj6u2evk3ukpzxn23lwpkhhfjvgqho53imgjkngemu6i2fes2&player=shaka"
       }
     ]
   },
@@ -2756,6 +2728,34 @@
         "stream_url": "",
         "stream_keys": "",
         "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoqv5yne4zojfxjd5er2rvxsulub4zjh4btwghoudgtwhja3dwsrn25c5krwhvxqu4uoozes3ikv5vez2utpcvwxndr6hyxdsvxktu2ytblrjvzddfkztvc45arwqj7ifhustwyzvfkvtwndk3jrjyytlcp5ui5d4nucokqwtqkbogoxejj5jj3c5ku6g34t25m5nv3jvasr7jzgm5sjifnhcwszlz4x3otrkj2t5bjzivjqs4lnpkpivhuktznikss3ceyvm7jrfzyuspnwii3enhugsj2wc7uffyxqktkkpewtvbkrimaw4yrwjjrgemk5svuvthoct3vje7lvkvwxn6sghjwyy&player=shaka"
+      }
+    ]
+  },
+  {
+    "stream_id": "cf09bc74613dde1549dd498ac76364b9",
+    "event_name": "WST: British Open: D7 Eve",
+    "category": "SNOOKER",
+    "category_logo": "https://wsrv.nl/?url=https://www.thesportsdb.com/images/icons/svg/sports/snooker.svg",
+    "league": "World Snooker Tour",
+    "league_logo": "",
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "description": "",
+    "hero_thumbnail": "",
+    "poster": "https://wsrv.nl/?url=https://images.skyone.co.nz/mac/479214/DAM/CEE740EA-CB74-4070-8B3CCE37879CFD2E.jpg",
+    "timestamp": 1788717600,
+    "start_time": "2026-09-06T18:00:00Z",
+    "end_time": "2026-09-06T21:00:00Z",
+    "time_utc": "2026-09-06 18:00",
+    "time_et": "09/06/26 02:00PM ET",
+    "streams": [
+      {
+        "source_name": "SKY SPORT 4 NZ",
+        "stream_url": "",
+        "stream_keys": "",
+        "embed_url": "https://sportsembed.su.getsugatensho.sbs/vesper?p=szo2thdymgqzheeoqv5yne4zojfxjd5er2rvxsulub4zjh4btwghgycvtwhja3dwsrn25c5krwhvxp44uoozes3ikv5vez2utpcvwxndr6hyxdsvxktu2ytblrjvzddfkztvc45arwqj7ifhustwyzvfkvtwndk3jrjyytlcp5ui5d4nucokqwtqkbogoxejj5jj3c5ku6g32vc5m5nv3jvasr7jzgm5sjhvvjvdmgt2fegdkbhfct2pjnjfg3erlrqu4ufjjwuwevu7lrxe2vm6krj2bhcuxojixdsrjosfcwlcljgfxpcujvjz5hkqjzf34yc4skjjrgemk5svuvthoct3vje7lvkvwxn6skgjwyy&player=shaka"
       }
     ]
   },
