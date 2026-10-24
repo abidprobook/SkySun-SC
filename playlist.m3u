@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SkySports1UHD" tvg-name="Sky Sports NZ 1 UHD 4K" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 1 UHD 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"d33fb985def7432bac5aae13d77f8e38":"7fcee6443e0e4d09b4d8708d40b26200","ecb2833d7abb44a4b4613fa3e8ed4920":"77a4d074f036419687bb3904c676140d","9ffb66270cc94776b09e4e24980a79df":"7429bf1753e74bb695ae39d611773716","d2851041aca84d909a85ff6402939d52":"3aa3fc223f124a5383585e4b8cf4eb79"}
+https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=302359
+#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports NZ 1 FHD" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 1 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=89501edc747b4951a6b25983862c57c6:70198973f88e4525999654afe42bccc9
+https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219026
+#EXTINF:-1 tvg-id="SkySports3" tvg-name="Sky Sports NZ 3 FHD" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 3 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=388fb0eb96c6460186211eeb16defba5:64851dfcf1a948909a783ae56b024b2b
+https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219028
+#EXTINF:-1 tvg-id="SkySports5" tvg-name="Sky Sports NZ 5 FHD" tvg-logo="https://8upload.com/image/67dcf3f6de1e0/sky-sport-5-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 5 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=997c57a480be479e9247edc415d78333:6fbd1687ece14f8eac22ec1052aab83d
+https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219032
 #EXTINF:-1 tvg-id="SkySports7" tvg-name="Sky Sports NZ 7 FHD" tvg-logo="https://8upload.com/image/67dcf3f6c3320/sky-sport-7-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 7 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=df2d9b6fca9b4f3697bda9614398b991:d10a74b6649741bf8e2687c03f955c90
