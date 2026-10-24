@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SkySports4" tvg-name="Sky Sports NZ 4 FHD" tvg-logo="https://8upload.com/image/67dcf3f6edfdd/sky-sport-4-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 4 FHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=eb87d227853644078a5edfd3a1ee1cc2:c98ea90441ca4eaeadb1928cb5303fe5
-https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219029
 #EXTINF:-1 tvg-id="SkySports7" tvg-name="Sky Sports NZ 7 FHD" tvg-logo="https://8upload.com/image/67dcf3f6c3320/sky-sport-7-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 7 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=df2d9b6fca9b4f3697bda9614398b991:d10a74b6649741bf8e2687c03f955c90
