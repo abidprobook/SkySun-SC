@@ -23,3 +23,7 @@ https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219034
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4cbcbf25c6884e759285db557de27d54:e77d540c4c16480e978c02ef738ff928
 https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219037
+#EXTINF:-1 tvg-id="SkySportsPL" tvg-name="Sky Sports NZ Premier League FHD" tvg-logo="https://8upload.com/image/67dcf3f6b6e90/sky-sport-8-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ Premier League FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=5e7104b4ad8c41ca9e8fadedaff47900:93b6d10cd1bf47fdafc63f8cc2baf45a
+https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219035
