@@ -27,6 +27,10 @@ https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219032
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=df2d9b6fca9b4f3697bda9614398b991:d10a74b6649741bf8e2687c03f955c90
 https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219034
+#EXTINF:-1 tvg-id="SkySports9" tvg-name="Sky Sports NZ 9 FHD" tvg-logo="https://8upload.com/image/67dcf3f6a8c72/sky-sport-9-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 9 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=de2debc2be4c4fcc854f0355beb14aad:5b066f72aaa34e74aea3d49aca6a6942
+https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219036
 #EXTINF:-1 tvg-id="SkySportsSelect" tvg-name="Sky Sports NZ Select FHD" tvg-logo="https://8upload.com/image/691197f8a6086/Sky_Sport_Select_NZ.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ Select FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4cbcbf25c6884e759285db557de27d54:e77d540c4c16480e978c02ef738ff928
