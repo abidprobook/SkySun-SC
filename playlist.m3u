@@ -7,3 +7,7 @@ https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=302359
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=89501edc747b4951a6b25983862c57c6:70198973f88e4525999654afe42bccc9
 https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219026
+#EXTINF:-1 tvg-id="SkySports3" tvg-name="Sky Sports NZ 3 FHD" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 3 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=388fb0eb96c6460186211eeb16defba5:64851dfcf1a948909a783ae56b024b2b
+https://vesper.heytheredelilah.xyz/snz/get-stream?event_id=219028
